@@ -45,7 +45,6 @@ print(HLE_male_low)
 # repeat for female data
 
 year = 0
-
 HLE_female_low = pd.DataFrame()
 
 for i in dates:
